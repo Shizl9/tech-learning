@@ -2,3 +2,5 @@ Frontend Technologies
 - HTML: Markup language for structuring web pages
 - CSS: Styles web pages and controls layout/design
 - JavaScript: Adds interactivity and dynamic behavior to web pages
+- React: JavaScript library for building user interfaces
+- Vue: Progressive JavaScript framework for building interfaces
