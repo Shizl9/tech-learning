@@ -3,3 +3,6 @@ This document compares popular development stacks and highlights their strengths
 MERN vs Spring Boot
 MERN is lightweight and JavaScript-based.
 Spring Boot is powerful, scalable, and uses Java for enterprise systems.
+Conclusion
+Each stack has unique advantages, and the best choice depends on project requirements, scalability needs, and developer expertise.
+
