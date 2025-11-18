@@ -14,3 +14,9 @@ Backend is the server-side part of a web application that handles logic, databas
 It ensures that the frontend receives the correct data and functionality. 
 Common backend technologies include Python, Node.js, Java, and PHP. 
 Backend developers focus on performance, security, and scalability.
+
+Databases:
+Databases store and organize the data used by web applications. 
+They can be relational (like MySQL, PostgreSQL) or non-relational (like MongoDB). 
+Databases allow efficient retrieval, update, and management of data. 
+Backend systems communicate with databases to provide information to the frontend.
