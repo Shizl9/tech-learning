@@ -1,0 +1,4 @@
+Spring Boot Stack
+Frontend: Can use React, Angular, or Thymeleaf for UI.
+Backend: Java Spring Boot for REST APIs and microservices.
+Database: MySQL, PostgreSQL, or MongoDB.
