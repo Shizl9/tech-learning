@@ -13,4 +13,11 @@ They are optimized for touch interfaces and often integrate with device hardware
 Mobile apps can be native, hybrid, or web-based, each offering different levels of performance and flexibility.
 They are commonly distributed through app stores like Google Play or the Apple App Store.
 
+Desktop applications:
+Desktop applications run directly on a computer’s operating system and often offer more processing power and advanced features.
+They can be installed locally and may work without an internet connection.
+Common desktop apps include office suites, graphic design tools, and engineering software.
+These applications are typically optimized for keyboard and mouse interaction.
+
+
 
