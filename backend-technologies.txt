@@ -1,0 +1,4 @@
+Backend Technologies
+- Node.js: JavaScript runtime for server-side development
+- Python: General-purpose language often used for backend frameworks
+- PHP: Server-side scripting language commonly used for web development
