@@ -1,0 +1,4 @@
+DotNet Stack
+Frontend: Blazor, Razor Pages, or external frontend frameworks.
+Backend: ASP.NET Core for building powerful server-side applications.
+Database: SQL Server or PostgreSQL commonly used.
