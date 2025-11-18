@@ -8,3 +8,9 @@ Frontend refers to the part of a website or application that users interact with
 It includes the layout, design, and interactive elements. 
 Common frontend technologies are HTML, CSS, and JavaScript. 
 Frontend developers focus on user experience and responsiveness.
+
+Backend Development:
+Backend is the server-side part of a web application that handles logic, databases, and server communication. 
+It ensures that the frontend receives the correct data and functionality. 
+Common backend technologies include Python, Node.js, Java, and PHP. 
+Backend developers focus on performance, security, and scalability.
