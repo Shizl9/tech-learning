@@ -1,2 +1,5 @@
 Stack Comparison
 This document compares popular development stacks and highlights their strengths.
+MERN vs DotNet
+MERN uses JavaScript end-to-end and is ideal for fast development.
+DotNet provides enterprise-level performance and strong typing with C#.
