@@ -20,3 +20,8 @@ Databases store and organize the data used by web applications.
 They can be relational (like MySQL, PostgreSQL) or non-relational (like MongoDB). 
 Databases allow efficient retrieval, update, and management of data. 
 Backend systems communicate with databases to provide information to the frontend.
+
+Conclusion
+Web development involves a combination of frontend, backend, and database systems. 
+By understanding how these parts work together, developers can build functional and user-friendly web applications. 
+Continuous learning and practice are essential to keep up with evolving web technologies.
