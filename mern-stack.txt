@@ -1,0 +1,4 @@
+MERN Stack
+Frontend: React.js for building dynamic user interfaces.
+Backend: Node.js with Express.js for server-side logic.
+Database: MongoDB for NoSQL document storage.
