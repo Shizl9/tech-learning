@@ -1,0 +1,2 @@
+Stack Comparison
+This document compares popular development stacks and highlights their strengths.
