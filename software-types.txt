@@ -1,0 +1,2 @@
+Software can be categorized into system software, application software, and development tools.
+System software manages hardware, while application software helps users perform tasks.
