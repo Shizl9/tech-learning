@@ -1,0 +1,2 @@
+I learned how to use Git commands to track changes, commit files, and push to GitHub. 
+I also learned about branches, checking status, and viewing logs.
