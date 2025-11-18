@@ -1,0 +1,4 @@
+Database Technologies
+- MySQL: Relational database management system
+- MongoDB: NoSQL document-oriented database
+- PostgreSQL: Advanced open-source relational database
