@@ -1,2 +1,9 @@
 Software can be categorized into system software, application software, and development tools.
 System software manages hardware, while application software helps users perform tasks.
+
+
+Web applications run through a web browser and do not require installation on a local device.
+They rely on client–server architecture and are commonly built using HTML, CSS, and JavaScript.
+Because they run online, web applications can be updated and maintained easily.
+Many modern services, from banking tools to social media platforms, are delivered as web apps.
+
