@@ -1,4 +1,10 @@
 
-Web Development Basics
+Web Development Basics:
 Web development involves building websites and web applications. 
 It consists of multiple parts that work together to deliver functionality and user experience.
+
+Frontend Development:
+Frontend refers to the part of a website or application that users interact with directly. 
+It includes the layout, design, and interactive elements. 
+Common frontend technologies are HTML, CSS, and JavaScript. 
+Frontend developers focus on user experience and responsiveness.
